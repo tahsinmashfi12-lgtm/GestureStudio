@@ -1,3 +1,7 @@
+
+Try a Demo video : 
+https://github.com/user-attachments/assets/e817153d-f50a-4e17-816c-d8ee8361848e
+
 GestureStudio
 Control your computer and draw in the air using only your hand. A webcam feeds MediaPipe hand tracking, and gestures are turned into real-time mouse, scroll, volume and drawing actions.
 
